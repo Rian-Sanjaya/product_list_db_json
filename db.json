@@ -31,6 +31,38 @@
       "pic_default_thumbnail": "",
       "pic_1_thumbnail": "",
       "pic_2_thumbnail": ""
+    },
+    {
+      "id": "ca77ba90-c8ba-4e74-8d23-d2c23b9a0780",
+      "name": "Dell UltraSharp 27 4K USB-C Hub Monitor - U2723QE",
+      "brand": "Dell",
+      "category": "Tech",
+      "price": 654.99,
+      "desc": "Be your most productive on a 27 inch monitor with brilliant color and contrast that features the industry’s first IPS Black technology and a connectivity hub.",
+      "rating_star": 4.5,
+      "rating_reviews": 422,
+      "pic_default": "dell_monitor.png",
+      "pic_1": "",
+      "pic_2": "",
+      "pic_default_thumbnail": "",
+      "pic_1_thumbnail": "",
+      "pic_2_thumbnail": ""
+    },
+    {
+      "id": "3eb6ebc9-1ac7-418a-b7fe-35c34c347ff9",
+      "name": "BOOST↑CHARGE™ PRO",
+      "brand": "Belkin",
+      "category": "Tech",
+      "price": 99.99,
+      "desc": "Charge your iPhone 13 or iPhone 12 and AirPods at the same time with this 2-in-1 MagSafe wireless charging stand delivering up to 15W to iPhone. Convenience in style, it’s optimized for speed with magnetic connection and bold modern design.",
+      "rating_star": 4.5,
+      "rating_reviews": 233,
+      "pic_default": "belkin_charge.png",
+      "pic_1": "",
+      "pic_2": "",
+      "pic_default_thumbnail": "",
+      "pic_1_thumbnail": "",
+      "pic_2_thumbnail": ""
     }
   ]
 }
