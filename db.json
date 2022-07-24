@@ -1,0 +1,36 @@
+{
+  "products": [
+    {
+      "id": "c95e686e-f2c6-449f-8472-6f9405aa0fad",
+      "name": "MX Mechanical Mini Wireless",
+      "brand": "Logitech",
+      "category": "Tech",
+      "price": 149.99,
+      "desc": "Wireless Illuminated Performance Keyboard",
+      "rating_star": 4,
+      "rating_reviews": 13,
+      "pic_default": "",
+      "pic_1": "",
+      "pic_2": "",
+      "pic_default_thumbnail": "",
+      "pic_1_thumbnail": "",
+      "pic_2_thumbnail": ""
+    },
+    {
+      "id": "91bc826a-29e9-440c-bc06-bb49c118d44d",
+      "name": "44mm Pride Edition Braided Solo Loop",
+      "brand": "Apple",
+      "category": "Tech",
+      "price": 99,
+      "desc": "it’s designed to provide an ultracomfortable fit. Use our guide to find your band size.",
+      "rating_star": 5,
+      "rating_reviews": 55,
+      "pic_default": "",
+      "pic_1": "",
+      "pic_2": "",
+      "pic_default_thumbnail": "",
+      "pic_1_thumbnail": "",
+      "pic_2_thumbnail": ""
+    }
+  ]
+}
