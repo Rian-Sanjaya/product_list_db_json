@@ -143,6 +143,22 @@
       "pic_default_thumbnail": "",
       "pic_1_thumbnail": "",
       "pic_2_thumbnail": ""
+    },
+    {
+      "id": "9f6815fe-9925-408f-94b2-be5d63e78275",
+      "name": "Air Force 1 '07 LV8 Next Nature",
+      "brand": "Nike",
+      "category": "lifestyle",
+      "price": 112,
+      "desc": "Airy, summertime accents like the mesh Swoosh let you show off your socks. Made from at least 20% recycled materials by weight, it lets you do good by looking good.",
+      "rating_star": 4,
+      "rating_reviews": 128,
+      "pic_default": "bang_olufsen.png",
+      "pic_1": "",
+      "pic_2": "",
+      "pic_default_thumbnail": "",
+      "pic_1_thumbnail": "",
+      "pic_2_thumbnail": ""
     }
   ]
 }
