@@ -1,4 +1,37 @@
 [
+  ,
+  {
+    "id": "71215473-fd8b-4f1e-b69a-d455b0bcff84",
+    "name": "Coffee Dripper - Tan Speckled",
+    "brand": "Buzz",
+    "category": "home",
+    "price": 40,
+    "desc": "Stoneware pour-over coffee dripper made with speckled tan clay, coated in a clear glossy glaze.",
+    "rating_star": 4.5,
+    "rating_reviews": 53,
+    "pic_default": "coffee_dripper.png",
+    "pic_1": "",
+    "pic_2": "",
+    "pic_default_thumbnail": "",
+    "pic_1_thumbnail": "",
+    "pic_2_thumbnail": ""
+  },
+  {
+    "id": "08c451cd-a003-43a6-93df-ac5bffb8a990",
+    "name": "Hario V60 Buono Drip Kettle - 800ml",
+    "brand": "Hario",
+    "category": "home",
+    "price": 60,
+    "desc": "Hario kettle is very popular amongst baristas, coffeehouses and coffee lovers at home. It is unique and very reliable, that is why it is highly rated by coffee experts worldwide. Hario is known to manufacture and invent brilliant coffee equipment, so it is not a accident that the Buono kettle is highly rated. You will not come across many better kettles than the V60 kettle from Hario.",
+    "rating_star": 4.5,
+    "rating_reviews": 531,
+    "pic_default": "hario_kettle.png",
+    "pic_1": "",
+    "pic_2": "",
+    "pic_default_thumbnail": "",
+    "pic_1_thumbnail": "",
+    "pic_2_thumbnail": ""
+  },
     {
       "id": "78d3aa4f-777e-438c-8daa-80eea7ecb9440",
       "name": "NORDIC KITCHEN TIMER",
